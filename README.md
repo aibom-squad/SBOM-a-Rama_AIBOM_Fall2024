@@ -14,7 +14,7 @@ Available options: In-person (limited spaces) or virtual attendance (registered 
 
 1. **Introduction**: Overview of [AIBOM TT workstream](https://github.com/aibom-squad/AIBOM-Tiger-Team) and its use cases (10 minutes)
 2. **Insight itno AIBOM Research**: Technical specifications, prioritization, and model card reference (20 minutes)
-3. **Workshop Discussion**: Next steps for AIBOM workstream - brainstorming session (remaining time)
+3. **Workshop Discussion**: The goal is to define next steps for the AIBOM workstream after completing the writing of use cases (remaining time)
    - **Technical Specifications**: Exploring the relationship between defined use cases and AIBOM fields. Participants will discuss next steps for field mapping to use cases and consider how we can contribute to evolving standards, such as SPDX and CDX.
    - **Lifecycle Considerations**: Addressing when and how AIBOM should be generated, focusing on the structure rather than the generation tool. This discussion aims to identify next steps for AIBOM TT workstream to explore how AIBOM can be seamlessly integrated into existing workflows and lifecycle management processes.
 
