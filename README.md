@@ -18,6 +18,10 @@ Available options: In-person (limited spaces) or virtual attendance (registered 
    - **Technical Specifications**: Exploring the relationship between defined use cases and AIBOM fields. Participants will discuss next steps for field mapping to use cases and consider how we can contribute to evolving standards, such as SPDX and CDX.
    - **Lifecycle Considerations**: Addressing when and how often AIBOM should be generated (out of scope: generation tool for AIBOM). This discussion aims to identify next steps for AIBOM TT workstream to explore how AIBOM can be seamlessly integrated into existing workflows and lifecycle management processes.
 
+## Running Documents for the workshop
+   - Slides: [AIBOM Workshop (Sept-12-2024)](https://drive.google.com/file/d/1LmljgMKQZ6NeilwKpa9Ze78-alBsJAMS/view?usp=sharing)
+   - Google Doc notes: [AIBOM workshop notes](https://docs.google.com/document/d/1cuSZ3fAHY93qTHxGKrs5TyFTr2mETAd9L9-2m_5Dmlg/edit?usp=sharing)
+
 ![AIBOM Workshop](https://github.com/aibom-squad/SBOM-a-Rama_AIBOM_Fall2024/blob/main/images/AIBOM%20workshop%20discussion%20topics.png?raw=true)
 
 ## Contact
