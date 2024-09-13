@@ -27,6 +27,8 @@ The primary consensus from the community was that the next steps after creating 
 
 For more details, please go to the Google Doc notes: [AIBOM workshop notes](https://docs.google.com/document/d/1cuSZ3fAHY93qTHxGKrs5TyFTr2mETAd9L9-2m_5Dmlg/edit?usp=sharing).
 
+Recording will be availalbe shortly on this channel: [https://www.youtube.com/@SoftwareSupplyChainSecurity](https://www.youtube.com/@SoftwareSupplyChainSecurity)
+
 
 ## Next Steps
 - Continue with AIBOM Use Cases documentation as per on-going efforts: [https://github.com/aibom-squad/AIBOM-Tiger-Team](https://github.com/aibom-squad/AIBOM-Tiger-Team)
